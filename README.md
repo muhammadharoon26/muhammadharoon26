@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
-<h3 align="center">DevOps Engineer | Backend Developer | I help businesses build scalable, secure, and high-performance applications with Python, Kubernetes, and CI/CD automation</h3>
+<h3 align="center">Backend Engineer | Python data pipelines, scrapers & APIs | Built pipelines processing 50K+ records/day | NUST CS ’26, Rector’s Gold Medal</h3>
 
 - 👨‍💻 Portfolio at: [muhammadharoon26.dev](https://muhammadharoon26.dev)
 
 - 📫 Reach me at: **mharoon1326@gmail.com**
 
-- 📄 Know about my experiences [Developer with 1 year of experience in Azure DevOps, Kubernetes, Jenkins, Python, Django, Node.js, Selenium, and API development. Proficient in Python and database optimization, with a proven ability to build scalable solutions, enhance performance, and drive projects in Agile environments. Committed to continuous learning and emerging technologies.](Developer with 1 year of experience in Azure DevOps, Kubernetes, Jenkins, Python, Django, Node.js, Selenium, and API development. Proficient in Python and database optimization, with a proven ability to build scalable solutions, enhance performance, and drive projects in Agile environments. Committed to continuous learning and emerging technologies.)
+- 📄 Know about my experience: I build the data and backend side of products: scrapers, ingestion pipelines, and APIs that keep running without babysitting.
+
+At BitStride, I built Python/Node.js pipelines that process 50,000+ records a day, integrated Airtable, S3, GCS, and Apify (saving the team 15+ hours of manual syncing weekly), and cut scraping failures by 30% with retries and async job handling.
+
+I've been doing this part-time alongside my CS degree at NUST, where my final-year project SeedScan won the Rector's Gold Medal.
+
+Good fit if you need: a reliable scraper or data pipeline, a backend API for an MVP, or deployment/CI setup. I work on fixed-price, clearly scoped tasks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadharoon26" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadharoon26" height="30" width="40" /></a>
-<a href="https://muhammadharoon26.vercel.app" target="_blank"><img align="center" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" alt="muhammadharoon26" height="30" width="40" /></a>
+<a href="https://muhammadharoon26.dev" target="_blank"><img align="center" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" alt="muhammadharoon26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
